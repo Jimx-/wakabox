@@ -6,9 +6,9 @@ import math
 WAKA_API_URL = 'https://wakatime.com/api/v1'
 GIST_API_URL = 'https://api.github.com/gists'
 
-NAME_LEN = 11
+NAME_LEN = 10
 TIME_LEN = 14
-BAR_LEN = 22
+BAR_LEN = 21
 PERCENT_LEN = 5
 
 
